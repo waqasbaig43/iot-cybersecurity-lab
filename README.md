@@ -11,10 +11,11 @@ To establish a pipeline for ingesting, storing, and visualizing IoT telemetry an
 To analyze the effectiveness of security monitoring and detection strategies.
 
 🛠️ Tech Stack & Tools
+
 Category	Technologies
-Hardware	Libelium Waspmote Smart City Sensors, Libelium Meshlium 4G Gateway
-Infrastructure	VMware vSphere (Virtualized Lab Environment)
-Attack & Analysis	Kali Linux, Wireshark, Aircrack-ng, hping3, Hydra
-Data Pipeline	MySQL Database, MQTT Protocol
-Visualization	Grafana (Real-time Dashboards)
-Monitoring	Zabbix (System/Network Health)
+Hardware: 	Libelium Waspmote Smart City Sensors, Libelium Meshlium 4G Gateway
+InfrastructureZ: 	VMware vSphere (Virtualized Lab Environment)
+Attack & Analysis: 	Kali Linux, Wireshark, Aircrack-ng, hping3, Hydra
+Data Pipeline: 	MySQL Database, MQTT Protocol
+Visualization: 	Grafana (Real-time Dashboards)
+Monitoring: 	Zabbix (System/Network Health)
